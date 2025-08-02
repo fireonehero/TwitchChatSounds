@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/twitch_chat_beep.dir/link.d CMakeFiles/twitch_chat_beep.dir/main.cpp.o -o twitch_chat_beep  /usr/lib/libboost_system.so.1.88.0 /usr/lib/libssl.so /usr/lib/libcrypto.so /usr/lib/libSDL2-2.0.so.0.3200.56

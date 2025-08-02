@@ -1,0 +1,3 @@
+/home/fireonehero/Projects/C++/TwitchChatSounds/build/CMakeFiles/twitch_chat_beep.dir
+/home/fireonehero/Projects/C++/TwitchChatSounds/build/CMakeFiles/edit_cache.dir
+/home/fireonehero/Projects/C++/TwitchChatSounds/build/CMakeFiles/rebuild_cache.dir
